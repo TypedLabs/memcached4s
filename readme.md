@@ -2,10 +2,7 @@
 
 memcached4s is memcache wrapper over spymemcache. It's foundations are based on the excellent code from @mumoshu and its [play2-memcached](https://github.com/mumoshu/play2-memcached) module.
 
-I wanted a simple scala memcached client for the services layer on an application I was working on, I tried a few option in the scala ecosystem but did not find something that worked simply like @mumoshu solution.
-
-memcached4s is
-
+I wanted a simple scala memcached client for the services layer on an application I was working on, I tried a few options in the scala ecosystem but did not find something that worked simply like @mumoshu solution did.
 
 1. [SBT](#sbt)
 2. [Usage](#usage)
