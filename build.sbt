@@ -6,7 +6,7 @@ organization := "com.typedlabs"
 
 scalaVersion := "2.12.4"
 
-version      := "0.1.0"
+version      := "0.1.1"
 
 crossScalaVersions := Seq(scalaVersion.value, "2.11.8")
 
@@ -14,7 +14,7 @@ bintrayRepository := "releases"
 
 bintrayOrganization := Some("typedlabs")
 
-bintrayPackageLabels := Seq("scala", "opengraph")
+bintrayPackageLabels := Seq("scala", "memcached")
 
 bintrayVcsUrl := Some("https://github.com/TypedLabs/memcached4s")
 
